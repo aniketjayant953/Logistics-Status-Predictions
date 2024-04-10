@@ -17,4 +17,4 @@ def out_predict():
     return jsonify(response)
 
 
-app.run(debug=True)
+
