@@ -56,8 +56,7 @@ def clean(text):
     return text.strip().lower()
 
 
-#
-#
+
 def predict(text):
     # cleaning the text
     cleaned_text = clean(text)
